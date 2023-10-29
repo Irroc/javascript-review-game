@@ -1,6 +1,13 @@
 * {
     margin: 1%;
 }
+form {
+    display: flex;
+    justify-content: center;
+}
+.display-none {
+    display: none;
+}
 
 #top-scores {
     position: absolute;
@@ -13,6 +20,10 @@
     right: 20px;
 }
 #start-button {
+    display: flex;
+    justify-content: center;
+}
+#questions {
     display: flex;
     justify-content: center;
 }
