@@ -1,0 +1,18 @@
+* {
+    margin: 1%;
+}
+
+#top-scores {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+#timer {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+#start-button {
+    display: flex;
+    justify-content: center;
+}
